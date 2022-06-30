@@ -30,3 +30,5 @@ css 语法 见下图
 ## 参考
 
 [CSS 基础](https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+[盒模型](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/The_box_model#%E4%BD%BF%E7%94%A8display_inline-block)
