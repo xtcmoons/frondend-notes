@@ -4,10 +4,7 @@ CSS是为网页添加样式的代码。
 
 css 语法 见下图
 
-![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/css-selector.png)
-
-
-![](https://github.com/xtcmoons/go-notes-xtc/blob/main/images/ssa.png)
+![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/mastering-margin-collapsing-demo-2.png)
 
 
 ## 一切皆盒子
@@ -16,8 +13,14 @@ css 语法 见下图
 
 ![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/box-model-demo.png)
 
+#### 图一
+
 ![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/box-model.png)
 
+
+#### 图二
+
+## 见图一
 
 * padding: 即内边距，围绕着内容的空间
 * border: 即边框，紧接着内边距的线
