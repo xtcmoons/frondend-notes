@@ -2,7 +2,7 @@
 
 flex 模型说明
 
-![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/flex-layout.png)
+![](https://github.com/xtcmoons/frondend-notes/blob/main/css-study/image/flex-layout.jpg)
 
 当元素表现为 flex 时，它们沿着两个轴来布局:
 
