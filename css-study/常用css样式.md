@@ -11,7 +11,8 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    filter: blur(0)
+    filter: blur(0);
+    display: table;
 }
 
 
