@@ -16,7 +16,7 @@ $ mkdir __json_server_mock__
 
 ```
 
-#### 三， 创建 db.json 文件
+#### 三， 进入刚创建 __json_server_mock__ 文件 db.json 文件
 
 ```sh
 $ touch db.json
@@ -46,3 +46,10 @@ json-server 只是个名字， 可以顺便取
 $ npm run json-server
 ```
 
+
+
+参考
+
+[json server](https://github.com/typicode/json-server)
+
+[json-server相关启动参数](https://blog.csdn.net/ligonglanyuan/article/details/120665684)

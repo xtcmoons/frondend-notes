@@ -13,6 +13,8 @@
     text-overflow: ellipsis;
     filter: blur(0);
     display: table;
+    display: table-cell;
+    text-decoration: line-through;
 }
 
 
