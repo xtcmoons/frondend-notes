@@ -16,6 +16,8 @@
 
 [json 数据](https://jsonplaceholder.typicode.com/guide/)
 
+[贝塞尔曲线](https://cubic-bezier.com/#.17,.67,.83,.67)
+
 
 ### 网络请求
 [swr](https://swr.vercel.app/zh-CN)

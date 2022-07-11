@@ -15,6 +15,7 @@
     display: table;
     display: table-cell;
     text-decoration: line-through;
+    box-shadow: 0 4px;
 }
 
 
