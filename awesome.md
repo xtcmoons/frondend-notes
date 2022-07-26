@@ -18,6 +18,8 @@
 
 [贝塞尔曲线](https://cubic-bezier.com/#.17,.67,.83,.67)
 
+[移动端布局开发更加容易](https://github.com/imochen/hotcss)
+
 
 ### 网络请求
 [swr](https://swr.vercel.app/zh-CN)
@@ -35,5 +37,12 @@ react-transition-group -- 在我们用React实现一个组件的挂载和卸载�
 
 * [焦点锁定 - react-focus-lock](https://github.com/theKashey/react-focus-lock)
 
+* [组件百科全书](https://storybook.js.org/showcase)
+
+* [简洁、可扩展、生产可用的项目架构](https://github.com/alan2207/bulletproof-react)
+- 测试如何做
+- API层如何处理
+- 性能问题怎么处理
+- 安全问题怎么处理
 
 
