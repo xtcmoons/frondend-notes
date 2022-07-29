@@ -44,9 +44,13 @@ Scheduler 和 Renderer 随时可能被中断。 中断的原因
 
 
 # 参考
+
 [同步更新 vs 异步更新](https://codesandbox.io/s/concurrent-3h48s?file=/src/index.js)
+
 [同步递归更新](https://codesandbox.io/s/fervent-sutherland-pf7sg?file=/src/App.js)
 
 [React 技术揭秘](https://react.iamkasong.com/)
+
 [React 源码解析](https://react.jokcy.me/)
 
+[react源码阅读-react-基础](https://www.tangdingblog.cn/blog/react/reactCode-react-1-2019-12-01/)
