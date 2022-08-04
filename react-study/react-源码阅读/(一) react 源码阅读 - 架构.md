@@ -43,6 +43,14 @@ Scheduler 和 Renderer 随时可能被中断。 中断的原因
 * 当前帧没有剩余的时间 
 
 
+# React 渲染流程
+
+* schedule 调度 scheduler 小顶堆
+
+* render 协调 reconciler - fiber dfs update 
+
+* commit 渲染 renderer ReactDom 
+
 # 参考
 
 [同步更新 vs 异步更新](https://codesandbox.io/s/concurrent-3h48s?file=/src/index.js)

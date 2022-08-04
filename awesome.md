@@ -45,4 +45,4 @@ react-transition-group -- 在我们用React实现一个组件的挂载和卸载�
 - 性能问题怎么处理
 - 安全问题怎么处理
 
-
+* [react-patterns-设计模式](https://www.patterns.dev/posts/introduction/)
