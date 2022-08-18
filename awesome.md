@@ -46,3 +46,12 @@ react-transition-group -- 在我们用React实现一个组件的挂载和卸载�
 - 安全问题怎么处理
 
 * [react-patterns-设计模式](https://www.patterns.dev/posts/introduction/)
+
+
+## CSS 
+
+* [Normalize.css简介、使用](https://juejin.cn/post/7116430157769867278)
+
+Normalize.css 只是一个很小的CSS文件，但它在默认的HTML元素样式上提供了跨浏览器的高度一致性。相比于传统的CSS reset，Normalize.css是一种现代的、为HTML5准备的优质替代方案。
+
+* [css reset](https://meyerweb.com/eric/tools/css/reset/)

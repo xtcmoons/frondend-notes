@@ -13,7 +13,7 @@ flex 模型说明
 
 ### 一 容器属性
 
-* flex-direction
+* flex-direction  
 * flex-wrap
 * flex-flow
 * justify-content
@@ -29,6 +29,8 @@ flex 模型说明
 * flex
 * align-self
 
+1. flex子项的margin值是不会合并的，这一点合普通的块级元素不一样。
+2. flex子项如果被设置为绝对定位，则会脱离弹性布局。
 
 ## 参考
 
@@ -37,3 +39,5 @@ flex 模型说明
 [Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
 [Flex 布局教程：实例篇](https://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+
+[Flexbox布局中不为人知的细节](https://mp.weixin.qq.com/s?__biz=Mzg4MjE5OTI4Mw==&mid=2247487491&idx=1&sn=673efc5655f50b4118723cf09a1eea71&chksm=cf5b0f9ff82c86891da10c98592cd9eaf2ceb5e1947be58b6376782fa29e8b3dee160d7fede1&cur_album_id=1803251908673896452&scene=190#rd)
