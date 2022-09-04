@@ -62,3 +62,5 @@ Scheduler 和 Renderer 随时可能被中断。 中断的原因
 [React 源码解析](https://react.jokcy.me/)
 
 [react源码阅读-react-基础](https://www.tangdingblog.cn/blog/react/reactCode-react-1-2019-12-01/)
+
+[React 虚理DOM之diff算法](../images/16de41554a3ff3e2_tplv-t2oaga2asx-zoom-in-crop-mark_3024_0_0_0.awebp)

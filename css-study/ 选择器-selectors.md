@@ -4,7 +4,7 @@
 
 * 通配选择器 (universal selector) *, ns|*, *|*, |*   --- 不推荐使用，性能最低的CSS选择器
 * 元素选择器 (type selector) elementname (元素名称)
-* 类选择器 (class selector) .classname (类名)
+* 类选择器 (class selector) .classname (类名) [class selector](https://codepen.io/xtcmoons/pen/yLjyNrE)
 * ID 选择器 (ID selector) #idname (ID 名)
 * 属性选择器 (attribute selector) [attr=value] [属性=值]
 
@@ -22,8 +22,25 @@
 * 列关系的双管通道 A || B
 
 
+选择器	示例	学习 CSS 的教程
+类型选择器	h1 { }	类型选择器
+通配选择器	* { }	通配选择器
+类选择器	.box { }	类选择器
+ID 选择器	#unique { }	ID 选择器
+标签属性选择器	a[title] { }	标签属性选择器
+伪类选择器	p:first-child { }	伪类
+伪元素选择器	p::first-line { }	伪元素
+后代选择器	article p	后代运算符
+子代选择器	article > p	子代选择器
+相邻兄弟选择器	h1 + p	相邻兄弟
+通用兄弟选择器	h1 ~ p	通用兄弟
+
+
+
 ### 参考
 
 [选择器](https://www.w3school.com.cn/css/css_selectors.asp)
 
 [选择器](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference#%E9%80%89%E6%8B%A9%E5%99%A8)
+
+[选择器](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors#%E9%80%89%E6%8B%A9%E5%99%A8%E5%88%97%E8%A1%A8)
